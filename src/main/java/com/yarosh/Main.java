@@ -1,10 +1,9 @@
 package com.yarosh;
 
+public static String msg = "Hello qaguru! And any changes";
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println(getMessage());
-    }
-    private static String getMessage(){
-        return  "Hello qaguru!"
+        System.out.println(msg);
     }
 }
