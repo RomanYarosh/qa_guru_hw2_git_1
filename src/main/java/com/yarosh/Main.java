@@ -2,6 +2,6 @@ package com.yarosh;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello qaguru!");
+        System.out.println("Hello qaguru! And any changes");
     }
 }
