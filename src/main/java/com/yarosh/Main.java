@@ -2,6 +2,9 @@ package com.yarosh;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello qaguru!");
+        System.out.println(getMessage());
+    }
+    private static String getMessage(){
+        return  "Hello qaguru!"
     }
 }
